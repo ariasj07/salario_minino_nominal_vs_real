@@ -53,5 +53,5 @@ st.caption("Gráfico: Josué Arias Gauna. Fuente: Banco Mundial")
 st.markdown(r"""
 #### Valor absoluto: Salario mínimo nominal vs Salario mínimo real por año (2010-2024)
 """)
-st.line_chart(pct_change, x="Year", y=["Salario nominal", "Salario real"])
+st.line_chart(pct_change, x="Year", y=["Salario nominal", "Salario real"], xlabel="Años", ylabel="Monto en colones")
 st.caption("Gráfico: Josué Arias Gauna. Fuente: Banco Mundial")
