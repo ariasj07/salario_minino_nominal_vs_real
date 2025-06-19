@@ -6,7 +6,7 @@ st.markdown("""
 # Salario mínimo nominal vs Salario real
 *Josué Arias Gauna - [Email](mailto:josuearias.crc@gmail.com) - [Github](https://github.com/ariasj07) - [Website](https://github.com/ariasj07)*
 
-### Se busca demostrar cúal es el salario mínimo real de Costa Rica año por año, tomando en cuenta como año base el salario minimo nominal del 2010
+### Se busca demostrar cúal es el salario mínimo real de Costa Rica año por año, tomando en cuenta como año base el salario minimo nominal del año 2010
 #### Conceptos: 
 - Salario nominal:
 Es el monto númerico de salario, el valor absoluto
